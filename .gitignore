@@ -1,0 +1,8 @@
+# Ignore virtual environment dir
+/trading-venv/
+
+# Ignore environment file
+/.env
+
+# Ignore error logs
+/logs/
