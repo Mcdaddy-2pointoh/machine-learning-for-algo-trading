@@ -6,3 +6,6 @@
 
 # Ignore error logs
 /logs/
+
+# Config JSON
+/config.json
